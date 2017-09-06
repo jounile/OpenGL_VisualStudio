@@ -1,0 +1,81 @@
+﻿  main.cpp
+  SOIL2.c
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_dds_c.h(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_dds_c.h(320): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_dds_c.h(569): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_pvr_c.h(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_pvr_c.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_pvr_c.h(981): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_pkm_c.h(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_pkm_c.h(120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_pkm_c.h(207): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stbi_ext_c.h(53): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stb_image_write.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stb_image_write.h(613): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\stb_image_write.h(997): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\jo_jpeg.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\soil2.c(2283): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\soil2.c(2600): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\soil2.c(2737): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  image_helper.c
+  image_DXT.c
+c:\users\jleino\documents\git\opengl_visualstudio\soil2\image_dxt.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  etc1_utils.c
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetFramebufferSize referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+main.obj : error LNK2001: unresolved external symbol ___glewActiveTexture
+main.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+main.obj : error LNK2001: unresolved external symbol ___glewBufferData
+main.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+main.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+main.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+main.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+main.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+main.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+main.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+main.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol ___glewGetProgramInfoLog
+main.obj : error LNK2001: unresolved external symbol ___glewGetProgramiv
+main.obj : error LNK2001: unresolved external symbol ___glewGetShaderInfoLog
+main.obj : error LNK2001: unresolved external symbol ___glewGetShaderiv
+main.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+main.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+main.obj : error LNK2001: unresolved external symbol ___glewUniform1i
+main.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+main.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+main.obj : error LNK2001: unresolved external symbol ___glewGenerateMipmap
+main.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+main.obj : error LNK2001: unresolved external symbol ___glewDeleteVertexArrays
+main.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+main.obj : error LNK2001: unresolved external symbol _glewExperimental
+C:\OpenGL\glfw-3.2.1.bin.WIN64\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\OpenGL\glew-2.1.0\lib\Release\x64\glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\jleino\Documents\Git\OpenGL_VisualStudio\Debug\OpenGL_VisualStudio.exe : fatal error LNK1120: 36 unresolved externals
